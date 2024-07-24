@@ -1,0 +1,5 @@
+#pragma once
+
+namespace SQLResource {
+    constexpr auto InitSchema = R"(@SQL_initSchema@)";
+}

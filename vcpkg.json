@@ -1,0 +1,9 @@
+{
+  "dependencies": [
+    "fmt",
+    "unordered-dense",
+    "sqlite3",
+    "sqlitecpp",
+    "spdlog"
+  ]
+}
