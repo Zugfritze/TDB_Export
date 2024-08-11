@@ -23,7 +23,6 @@ add_library(
         TDB_Export
         SHARED
         src/plugin.cpp
-        src/type.hpp
         src/tool.hpp
 )
 
